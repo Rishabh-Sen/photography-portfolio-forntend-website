@@ -592,7 +592,13 @@ a{
 
 
 /*-----------------------------------------------------------CONTACT PAGE CSS-----------------------------------------------------------------*/
+  #sect1-p1-about-cot{
 
+    font-size: 30px;
+
+    text-align: center;
+    color: black;
+  }
 .sect1-contact{
 width: 100%;
 height: 800px;
