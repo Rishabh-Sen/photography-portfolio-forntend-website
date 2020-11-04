@@ -3,7 +3,7 @@ var x = document.getElementById('name').value;
 
 var y = document.getElementById('email').value;
 
-var z = document.getElementById('phone').value;
+var z = document.getElementById('phone').value ;
 
 var w = document.getElementById('textarea').value;
 
